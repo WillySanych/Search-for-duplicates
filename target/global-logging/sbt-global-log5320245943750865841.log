@@ -1,0 +1,9 @@
+[debug] > Exec(all {file:/B:/Scala/1/}root-1/products {file:/B:/Scala/1/}root-1/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to B:\Scala\1\target\scala-2.13\classes ...
+[info] done compiling
+[success] Total time: 0 s, completed 6 нояб. 2021 г., 18:02:03
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

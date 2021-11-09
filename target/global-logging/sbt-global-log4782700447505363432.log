@@ -1,0 +1,13 @@
+[debug] > Exec(all {file:/B:/Scala/1/}root-1/products {file:/B:/Scala/1/}root-1/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to B:\Scala\1\target\scala-2.13\classes ...
+[error] B:\Scala\1\src\main\scala\Main.scala:9:14: not found: value <
+[error]       case x < 0 => {println("The number must be in 0 to 100 000.")}
+[error]              ^
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 1 s, completed 8 нояб. 2021 г., 20:01:58
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

@@ -1,0 +1,27 @@
+1635409823673:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("C:/Users/vital/AppData/Local/Temp/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers, resolveSbtClassifiers");apply -cp "C:/Users/vital/AppData/Roaming/JetBrains/IdeaIC2021.2/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.1.1/sbt-structure-extractor-2021.1.1.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+1636213887042:run
+1636215825859:run\\
+1636215854128:compile
+1636215877023:run
+1636216697779:exit
+1636286066373:run
+1636286077269:package
+1636286391704:assembly
+1636286439473:exit
+1636286560133:package
+1636286939476:scalac main.scala -d main.jar
+1636287110875:java -jar main.jar
+1636287300745:exit
+1636287321903:help package
+1636287395784:package
+1636287413579:java -jar main.jar
+1636287430751:scala main.jar
+1636287914247:f
+1636287919862:compile package
+1636288365406:quit
+1636288368683:exti
+1636288370790:exit
+1636365443726:run
+1636365477316:exit
+1636365489047:compile
+1636365492434:run

@@ -1,0 +1,21 @@
+[debug] > Exec(all {file:/B:/Scala/1/}root-1/products {file:/B:/Scala/1/}root-1/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to B:\Scala\1\target\scala-2.13\classes ...
+[error] B:\Scala\1\src\main\scala\Main.scala:24:11: value += is not a member of Int
+[error]   Expression does not convert to assignment because:
+[error]     overloaded method + with alternatives:
+[error]       (x: Int)Int <and>
+[error]       (x: Char)Int <and>
+[error]       (x: Short)Int <and>
+[error]       (x: Byte)Int
+[error]      cannot be applied to (Option[Int])
+[error]     expansion: Main.this.count = Main.this.count.<$plus: error>(arrgroup.get(k))
+[error]     count += arrgroup get k
+[error]           ^
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 0 s, completed 31 окт. 2021 г., 16:53:25
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

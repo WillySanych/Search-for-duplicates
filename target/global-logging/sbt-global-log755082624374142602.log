@@ -1,0 +1,7 @@
+[debug] > Exec(all {file:/B:/Scala/1/}root-1/products {file:/B:/Scala/1/}root-1/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 0 s, completed 9 нояб. 2021 г., 13:42:12
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

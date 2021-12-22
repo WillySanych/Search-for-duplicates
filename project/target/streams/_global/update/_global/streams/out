@@ -1,3 +1,4 @@
-[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = false, force = false[0m
-[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/B:/Scala/Search%20for%20duplicates/project/"), "search-for-duplicates-build")...[0m
-[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/B:/Scala/Search%20for%20duplicates/project/"), "search-for-duplicates-build")[0m
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/B:/Scala/Search%20for%20duplicates/project/"), "search-for-duplicates-build")...
+[warn] Unrecognized repository Scala Plugin Bundled Repository, ignoring it
+[debug] Done updating ProjectRef(uri("file:/B:/Scala/Search%20for%20duplicates/project/"), "search-for-duplicates-build")
